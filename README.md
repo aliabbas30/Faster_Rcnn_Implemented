@@ -17,8 +17,9 @@ I have used three classes, Bed, Chair and Table.
 ## Tensorflow 
 https://www.tensorflow.org/
 ## Open CV
+https://opencv.org/
 ## Keras
-
+https://keras.io/
 1. Clone the repository: https://github.com/aliabbas30/Faster_Rcnn_Implemented.git
 
 Use Model.py to get the functions of model
