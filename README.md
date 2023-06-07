@@ -14,6 +14,9 @@ I have used three classes, Bed, Chair and Table.
 - Pandas
 
 ## Installation
+## Tensorflow
+## Open CV
+## Keras
 
 1. Clone the repository: https://github.com/aliabbas30/Faster_Rcnn_Implemented.git
 
